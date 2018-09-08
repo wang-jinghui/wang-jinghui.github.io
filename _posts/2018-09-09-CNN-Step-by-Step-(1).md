@@ -79,7 +79,7 @@ np.random.seed(1)
 
 　　现在市面上已经有很多DL框架了，比如Tensorflow,Keras,Caffe,Mxnet等等，用起来非常方便，但是不利用进一步的理解卷积网络实现过程中的更多细节．通过一步步的来实现CNN有助于加深对概念的理解．原始的tensor在经过卷积层处理之后的大小和深度一般会发生变化，如下图所示：
 
-![这里写图片描述]({{site.url}}/image/180908_1.png)
+![这里写图片描述](image/180908_1.png)
  
 ### 3.1 - Zero-Padding
 
